@@ -1,3 +1,2 @@
-BOT_TOKEN = '6118156327:AAGamPl-v2yz960LEWYgWEeEfkMWzuVspQ4'
-
-OPENAI_TOKEN = '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'
+BOT_TOKEN = 'your number'
+OPENAI_TOKEN = 'your number'
